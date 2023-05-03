@@ -9,3 +9,4 @@ edition = "2021"
 rush-state = { path = "../rush-state" }
 rush-eval = { path = "../rush-eval" }
 anyhow.workspace = true
+human-panic = "1.1.4"
